@@ -1,0 +1,91 @@
+{
+  "name": "cydecient-dark-themes",
+  "displayName": "Cydecient Dark Themes",
+  "description": "Eleven dark worlds, one code palette. The Dark Blue Angel syntax colors carried into eleven deeply colored dark backgrounds, from matte forest green to neon arcade pink.",
+  "version": "1.0.0",
+  "publisher": "PhilipEze",
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Philballer/cydecient-dark-themes"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "color theme",
+    "dark",
+    "cydecient",
+    "dark blue angel",
+    "one dark blue"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#050c03",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cydecient Nature",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-nature-color-theme.json"
+      },
+      {
+        "label": "Cydecient Retro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-retro-color-theme.json"
+      },
+      {
+        "label": "Cydecient Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-crimson-color-theme.json"
+      },
+      {
+        "label": "Cydecient Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-obsidian-color-theme.json"
+      },
+      {
+        "label": "Cydecient Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-blue-color-theme.json"
+      },
+      {
+        "label": "Cydecient Light",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-light-color-theme.json"
+      },
+      {
+        "label": "Cydecient Coffee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-coffee-color-theme.json"
+      },
+      {
+        "label": "Cydecient Violet",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-violet-color-theme.json"
+      },
+      {
+        "label": "Cydecient Gamer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-gamer-color-theme.json"
+      },
+      {
+        "label": "Cydecient Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-ember-color-theme.json"
+      },
+      {
+        "label": "Cydecient Abyss",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cydecient-abyss-color-theme.json"
+      }
+    ]
+  }
+}
