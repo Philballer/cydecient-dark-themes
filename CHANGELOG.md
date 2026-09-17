@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.8
+
+- Retro speaks yellow: the menu bar, tabs, section headers, side bar, status bar, lists and the toolbar icons are amber on navy, from a warm white for headers down to a dark khaki for placeholders. Code and terminal text are untouched.
+- Every world: the selected row of the suggestion list and the count badges sit on a mid slate in the world's hue instead of a pale text grey, so their white labels are readable.
+
+## 1.0.7
+
+- Buttons follow One Dark Blue exactly: a quiet raised surface with a white label instead of a saturated block, so Sync Changes reads clean in every world.
+- The activity bar badge is a soft slate tinted by the world instead of a dark saturated chip; the Install button uses each world's own button fill so its label stays readable.
+- Retro carries its yellow everywhere: gold hairlines, warm cream side bar and status text, gold buttons and badges with white labels.
+
 ## 1.0.6
 
 - Search terms: description and tags now name every world color and the One Dark family, so the pack is found by the words people actually search.

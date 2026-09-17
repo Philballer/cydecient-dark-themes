@@ -1,0 +1,34 @@
+Cydecient Themes - End User License Agreement
+
+Last updated: 16 September 2026
+
+This End User License Agreement ("EULA") is concluded between you ("You") and Phil Ezevia (the "Developer") with respect to the plugin "Cydecient Themes" (the "Plugin"), distributed free of charge through JetBrains Marketplace. JetBrains is not a party to this EULA.
+
+1. Definitions
+"JetBrains" means JetBrains s.r.o., Na Hrebenech II 1718/8, Prague, 14000, Czech Republic, and its affiliates.
+"JetBrains Marketplace" means the platform operated by JetBrains at https://plugins.jetbrains.com and any other JetBrains channel through which plugins are distributed.
+"Documentation" means the description, change notes and instructions published for the Plugin on JetBrains Marketplace.
+
+2. Grant of License
+2.1 License. The Developer grants You a perpetual, worldwide, non-exclusive, non-transferable, royalty-free license to install and use the Plugin, including generally available updates, in JetBrains IDEs, in line with the Documentation and this EULA. You may make backup copies of the Plugin for archival purposes.
+2.2 Restrictions. You may not modify, reverse-engineer, decompile or disassemble the Plugin or its theme files, color schemes, icons or descriptions, create derivative works from them, extract them for use outside the Plugin, or copy, redistribute, sell, rent or sublicense the Plugin, in whole or in part, unless expressly authorized in writing by the Developer. Obtaining the Plugin through JetBrains Marketplace is the only permitted way of distribution.
+
+3. Support
+Support for the Plugin is provided by the Developer at the Developer's discretion by email at renovuteam@gmail.com; response times are not guaranteed. JetBrains provides no support for the Plugin.
+
+4. Intellectual Property
+The Plugin is protected by copyright and other intellectual property laws and treaties. The Developer owns all title, copyright and other intellectual property rights in the Plugin. The Plugin is licensed, not sold, and all rights not expressly granted in this EULA are reserved.
+
+5. Disclaimer of Warranty
+THE PLUGIN IS PROVIDED TO YOU FREE OF CHARGE ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND. YOUR USE OF THE PLUGIN IS AT YOUR OWN RISK. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. THE DEVELOPER DOES NOT WARRANT THAT THE PLUGIN MEETS YOUR REQUIREMENTS, IS ERROR-FREE, OR WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION. EXCEPT AS REQUIRED BY APPLICABLE LAW, UPDATES ARE PROVIDED ON AN "AS AVAILABLE" BASIS AT THE DEVELOPER'S SOLE DISCRETION.
+
+6. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE DEVELOPER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, LOST PROFITS OR LOST DATA ARISING OUT OF OR RELATED TO THE PLUGIN OR THIS EULA, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. JETBRAINS' LIABILITY IS EXCLUDED IN ITS ENTIRETY, AS JETBRAINS IS NOT A PARTY TO THE CONTRACTUAL RELATIONSHIP BETWEEN THE DEVELOPER AND YOU. NOTHING IN THIS EULA LIMITS ANY LIABILITY THAT CANNOT BE LIMITED UNDER APPLICABLE LAW.
+
+7. Termination
+This EULA and Your license end automatically if You breach this EULA. On termination You must stop using the Plugin and delete all copies. Sections 4 to 8 survive termination.
+
+8. General
+This EULA is governed by the laws of the country in which the Developer resides, excluding its conflict-of-law rules. If any provision is held invalid, the remaining provisions stay in effect. This EULA is the entire agreement between You and the Developer regarding the Plugin.
+
+Contact: Phil Ezevia, renovuteam@gmail.com

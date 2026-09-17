@@ -65,7 +65,7 @@ Background `#010b0e`, accent `#5eead4`. Deep ocean teal, submerged and cool and 
 
 Only the workbench changes: the editor background, the side bar, panels, tabs, borders, selections and the accent color. Keywords, strings, methods, classes and variables are identical in every world, so switching worlds never means relearning a color.
 
-Every panel shares the editor's exact background, the line numbers, indent guides, selections and diff colors are tuned per world, and the active tab and the panel title carry the world's accent.
+Every panel shares the editor's exact background, and the line numbers, indent guides, selections, hairlines, buttons and badges are tuned per world. Nothing shouts: tabs, panel titles and buttons stay as quiet as in One Dark Blue.
 
 ## License
 
